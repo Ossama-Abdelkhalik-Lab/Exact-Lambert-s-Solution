@@ -1,4 +1,4 @@
-# Exact Solution to Lambert's Problem: Benchmark vs. IvLam
+# Exact Analytic Solution to Lambert's Problem: Exact vs. IvLam
  
 This code generates **10 million random elliptic Lambert's problems** and uses them to compare the computational performance of the exact contour-integral solution to Lambert's problem [1, 2] against the IvLam solver [3, 4].
  
